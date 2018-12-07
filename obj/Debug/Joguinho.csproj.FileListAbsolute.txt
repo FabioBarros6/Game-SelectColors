@@ -1,0 +1,11 @@
+D:\Desenvolvimentos de Sistemas\Joguinho\Joguinho\obj\Debug\Joguinho.csprojAssemblyReference.cache
+D:\Desenvolvimentos de Sistemas\Joguinho\Joguinho\obj\Debug\Joguinho.Game.resources
+D:\Desenvolvimentos de Sistemas\Joguinho\Joguinho\obj\Debug\Joguinho.Properties.Resources.resources
+D:\Desenvolvimentos de Sistemas\Joguinho\Joguinho\obj\Debug\Joguinho.csproj.GenerateResource.cache
+D:\Desenvolvimentos de Sistemas\Joguinho\Joguinho\obj\Debug\Joguinho.csproj.CoreCompileInputs.cache
+D:\Desenvolvimentos de Sistemas\Joguinho\Joguinho\bin\Debug\Joguinho.exe.config
+D:\Desenvolvimentos de Sistemas\Joguinho\Joguinho\bin\Debug\Joguinho.exe
+D:\Desenvolvimentos de Sistemas\Joguinho\Joguinho\bin\Debug\Joguinho.pdb
+D:\Desenvolvimentos de Sistemas\Joguinho\Joguinho\obj\Debug\Joguinho.exe
+D:\Desenvolvimentos de Sistemas\Joguinho\Joguinho\obj\Debug\Joguinho.pdb
+D:\Desenvolvimentos de Sistemas\Joguinho\Joguinho\obj\Debug\Joguinho.Loading.resources
